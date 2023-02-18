@@ -1,4 +1,4 @@
-const action = prompt("What do you want tp do?", "Add, sub, mult, div");
+const action = prompt("What do you want to do?", "Add, sub, mult, div");
 const actionNormalized = action.toLowerCase();
 const answr1 = prompt("What is your first number?");
 const answr2 = prompt("What is your second number?");
